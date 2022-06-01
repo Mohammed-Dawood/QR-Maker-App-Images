@@ -1,3 +1,5 @@
+https://apps.apple.com/se/app/qr-maker-app/id1623787553?uo=4
+
 ![1](https://user-images.githubusercontent.com/78726877/170025769-88687713-bbb6-42af-9dcc-a7c147853b70.png)
 ![2](https://user-images.githubusercontent.com/78726877/170025775-15dd7b37-51eb-4d8b-8110-9ddd9e3c212a.png)
 
