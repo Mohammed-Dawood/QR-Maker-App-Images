@@ -1,25 +1,22 @@
-https://apps.apple.com/se/app/qr-maker-app/id1623787553?uo=4
+https://qrco.de/QR-Maker-App
 
-![1](https://user-images.githubusercontent.com/78726877/170025769-88687713-bbb6-42af-9dcc-a7c147853b70.png)
-![2](https://user-images.githubusercontent.com/78726877/170025775-15dd7b37-51eb-4d8b-8110-9ddd9e3c212a.png)
+![1](https://user-images.githubusercontent.com/78726877/185140783-15fe9fd3-2438-4efe-97f4-5c011afb4b8b.png)
+![2](https://user-images.githubusercontent.com/78726877/185140790-e6f415a5-82ef-45ca-8676-be01151e3ed2.png)
 
-![3](https://user-images.githubusercontent.com/78726877/170025777-e533b6b6-1c48-4a7f-856e-512d290eb6df.png)
-![4](https://user-images.githubusercontent.com/78726877/170025778-e6f1a130-016c-413b-9df1-b4a7085f0670.png)
+![3](https://user-images.githubusercontent.com/78726877/185140793-dab7d2ba-9f3a-4430-9370-2932daed659d.png)
+![4](https://user-images.githubusercontent.com/78726877/185140794-419f9251-5df4-46eb-b953-91ba28e94cb9.png)
 
-![5](https://user-images.githubusercontent.com/78726877/170025780-d304ec73-3b32-4610-b96d-56fa80603266.png)
-![6](https://user-images.githubusercontent.com/78726877/170025782-b59b0e30-9151-4b31-856f-76e62a6375af.png)
+![5](https://user-images.githubusercontent.com/78726877/185140797-43f58019-e5ac-4dbf-86bd-a15c14ed532b.png)
+![6](https://user-images.githubusercontent.com/78726877/185140800-9b77298a-ddb5-429b-b6d5-9725d699862e.png)
 
-![7](https://user-images.githubusercontent.com/78726877/170025783-bdde5a09-120f-40df-a3cc-167d88c100a8.png)
-![8](https://user-images.githubusercontent.com/78726877/170025785-b9f3e83e-9b13-4ef5-84e3-8918814e075f.png)
+![7](https://user-images.githubusercontent.com/78726877/185140802-44586fdd-9fdf-48e4-a710-f51c87b0758e.png)
+![8](https://user-images.githubusercontent.com/78726877/185140804-9f2a7444-7e08-4762-961e-2c2ce13299a5.png)
 
-![9](https://user-images.githubusercontent.com/78726877/170025787-f10d0bad-79f6-4804-8787-283ccd87cd92.png)
-![10](https://user-images.githubusercontent.com/78726877/170025790-2ae9e968-a6f7-449d-8876-f7a4779771c4.png)
+![9](https://user-images.githubusercontent.com/78726877/185140809-daaf2a85-8e9e-41e9-ab60-5a1ca98a8874.png)
+![10](https://user-images.githubusercontent.com/78726877/185140810-d136f34a-a49b-48a6-afab-7da275083ec6.png)
 
-![11](https://user-images.githubusercontent.com/78726877/170025792-2a8e2ce6-2311-4a39-9f13-32d48a37c627.png)
-![12](https://user-images.githubusercontent.com/78726877/170025793-2efdc2ea-6905-458c-ab74-eee91dd36882.png)
+![11](https://user-images.githubusercontent.com/78726877/185140811-aea49738-8c36-47f6-9750-b68081505717.png)
+![12](https://user-images.githubusercontent.com/78726877/185140813-0545f451-3219-4c9c-bc18-6fe8c793bc8d.png)
 
-![13](https://user-images.githubusercontent.com/78726877/170025794-024afa33-a153-4acd-95e3-a4735f6ba39b.png)
-![14](https://user-images.githubusercontent.com/78726877/170025796-08d7f802-b86f-4aa6-8a0b-70e5c244ac7a.png)
-
-![15](https://user-images.githubusercontent.com/78726877/170025797-3e24dfba-ab7b-42b7-a44b-58f4a79e0650.png)
-![16](https://user-images.githubusercontent.com/78726877/170025800-1e28170e-7558-4780-9f12-19613fb20146.png)
+![13](https://user-images.githubusercontent.com/78726877/185140814-8ba46586-0859-4445-9b9d-d6b45056c844.png)
+![14](https://user-images.githubusercontent.com/78726877/185140816-71a60e7f-ee96-4d70-a8c6-a0637be00120.png)
