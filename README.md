@@ -1,3 +1,26 @@
+https://qrco.de/QR-Maker-App
+
+
+- Vibration.
+- Animation.
+- Multiple Languages.
+- Save QR-Code on App.
+- Save QR-Code on gallery.
+- Scan all types of QR-Code.
+- Light Theme and Dark Theme.
+- Display QR-Code on the screen.
+- Add logo in the middle of QR-Code.
+- Jump directly to web address decoded.
+- Flashlight is supported for scanning QR-Code in low light environments.
+- Share QR-Code via SMS, Email, Twitter, Facebook, WhatsApp, LinkdIn, Snapchat, Instagram ,TikTok, Telegram and Messanger.
+
+Easily create and share QR codes with QR Maker App. Whether you need to send a link, a text message, or a vCard, our app makes it simple to generate QR codes in seconds. Customize the appearance of your QR codes and use our built-in scanner to read QR codes created by others. With QR Maker App, you'll always be ready to share your information quickly and easily. Try it now and see for yourself how convenient it is to use QR codes in your daily life.
+ 
+ 
+ 
+
+
+
 ![1](https://user-images.githubusercontent.com/78726877/224505737-600b67b3-17be-41b7-83ba-d417903d0d43.png)
 
 ![2](https://user-images.githubusercontent.com/78726877/224505745-6eeeb908-2cd4-4a9a-b05e-381b84295da3.png)
